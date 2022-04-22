@@ -3,6 +3,8 @@ Humans do not posses all of the neccessary information to be 100% correct in kno
 
 So in essence a better way to make a profit is to react to a stock price swings in a correct way. This program is ment to test a simple theory - no matter what way a stock swings a correct response will mitigate damage and increase profit.
 
+Alpha Vantage will be used to collect stock data
+
 # Rules
 For the first iteration the program will have two simple rules to test the aformentioned theory:
  - If a stock loses 10% of its original investment it is sold. In first tests the stock will be sold for most of its original value. Later on the sell price will be adjusted to match the real life average devaluation.
@@ -36,3 +38,4 @@ For testing purposes a huge amount of stock will be bought and sold. Later on mo
 - TTD.
 - Some planing and diagrams to make the project more concise and "proffesionnal".
 - Clean code.
+- Multithreading.
